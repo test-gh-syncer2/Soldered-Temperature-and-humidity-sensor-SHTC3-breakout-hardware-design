@@ -1,0 +1,23 @@
+#################
+## Soldered - files to ignore
+#################
+
+## Internal development stuff
+INTERNAL/
+
+## KiCad
+*cache.lib
+*.kicad_pcb-bak
+*.net
+*.gbr
+*.drl
+
+## Windows
+Thumbs.db
+Desktop.ini
+
+## Mac OS
+.DS_Store
+
+## Linux
+*~
